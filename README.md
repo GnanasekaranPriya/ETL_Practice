@@ -1,1 +1,1 @@
-# Amazon Project 
+# ETL Project - MySQL to Postgres
